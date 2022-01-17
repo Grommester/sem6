@@ -1,4 +1,4 @@
-<p>Password - clown123<p>
+<p>Password - clown123</p>
 <p>теперь создайте на рабочем столе пустой документ и назовите его Hello.c. В нем напишите</p> 
 ```
 # include <stdio.h>
