@@ -1,6 +1,8 @@
 ![Снимок экрана от 2022-02-01 12-37-03](https://user-images.githubusercontent.com/90381005/151953628-b72f8428-80ff-4026-a52c-2faf03776b9d.png)
 ![Снимок экрана от 2022-02-03 10-22-26](https://user-images.githubusercontent.com/90381005/152306233-538d0fa6-c2c4-4d29-b746-bf9a279985c2.png)
 ![Снимок экрана от 2022-02-03 10-23-32](https://user-images.githubusercontent.com/90381005/152306278-4758298a-4214-40a7-96fc-b2ca627449cb.png)
+![image](https://user-images.githubusercontent.com/90381005/152768160-4a881642-5924-4153-8429-4b75877d47f4.png)
+
 ```
 #!/bin/bash
 echo "type name"
