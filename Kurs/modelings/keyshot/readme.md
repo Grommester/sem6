@@ -9,3 +9,4 @@
 ![untitled 16](https://user-images.githubusercontent.com/90381005/157476106-ffb2be79-9dc5-4ddf-8522-2acc66b307f5.jpg)
 ![untitled 17](https://user-images.githubusercontent.com/90381005/157478541-b371bb22-625c-4a93-bd34-60656ac14875.jpg)
 ![untitled 18](https://user-images.githubusercontent.com/90381005/157750362-ae61c316-483c-4040-8afa-1a6818274646.jpg)
+![office_chair 19](https://user-images.githubusercontent.com/90381005/158210042-f95ee63e-ee89-4b6a-96b9-04659062a797.jpg)
